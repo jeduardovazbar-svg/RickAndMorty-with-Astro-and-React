@@ -1,0 +1,10 @@
+---
+import  Layout  from "@layout/Layout.astro";
+import Movies from "@component/Movies.astro";
+import Search from "@component/Search.jsx";
+---
+
+<Layout>
+	<Search client:load/><!-- utilizamos client:load para que se haga reactivo el cliente -->
+	<Movies />
+</Layout>
