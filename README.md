@@ -49,7 +49,7 @@ By utilizing **Astro** as the static-first meta-framework and **React** for isol
 <div align="center">
   <br />
   <!-- REPLACE THE URL BELOW WITH YOUR OVERVIEW SCREENSHOT -->
-  <img src="https://images.unsplash.com/photo-1579546929518-9e396f3cc809?auto=format&fit=crop&w=1200&q=80" alt="Main Multiverse Overview Grid" width="90%" style="border-radius: 12px; border: 1px solid rgba(255, 255, 255, 0.1); box-shadow: 0 20px 40px -15px rgba(151, 206, 76, 0.25);" />
+  <img src="/public/interfaz_principal.png" alt="Main Multiverse Overview Grid" width="90%" style="border-radius: 12px; border: 1px solid rgba(255, 255, 255, 0.1); box-shadow: 0 20px 40px -15px rgba(151, 206, 76, 0.25);" />
   <p><sub><b>Figure 1:</b> The character directory grid displaying live status badges and pagination controls.</sub></p>
   <br />
 </div>
@@ -62,7 +62,7 @@ By utilizing **Astro** as the static-first meta-framework and **React** for isol
 <div align="center">
   <br />
   <!-- REPLACE THE URL BELOW WITH YOUR CHARACTER DETAIL SCREENSHOT -->
-  <img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=1200&q=80" alt="Character Detail Profile View" width="90%" style="border-radius: 12px; border: 1px solid rgba(255, 255, 255, 0.1); box-shadow: 0 20px 40px -15px rgba(97, 218, 251, 0.25);" />
+  <img src="/public/vista_personal.png" alt="Character Detail Profile View" width="90%" style="border-radius: 12px; border: 1px solid rgba(255, 255, 255, 0.1); box-shadow: 0 20px 40px -15px rgba(97, 218, 251, 0.25);" />
   <p><sub><b>Figure 2:</b> Detailed profile inspect panel showing character lore, origin planet, and episode history.</sub></p>
   <br />
 </div>
